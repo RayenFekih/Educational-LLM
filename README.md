@@ -2,8 +2,6 @@
 
 ## **Overview**
 
-## **Overview**
-
 This is a **Retrieval-Augmented Generation (RAG)** application built with **FastAPI**. The app processes PDFs, creates a searchable vector store, and provides endpoints for generating topic-based questions and summaries using **LangChain**, **FAISS**, and **Groq** models.
 
 ---
